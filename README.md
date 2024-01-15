@@ -126,5 +126,3 @@ We appreciate the open source of the following projects:
 
 ## Contact Information
 For help or issues using the Visual ChatGPT, please submit a GitHub issue.
-
-For other communications, please contact Chenfei WU (chewu@microsoft.com) or Nan DUAN (nanduan@microsoft.com).
